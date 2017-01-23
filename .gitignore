@@ -1,3 +1,15 @@
+vendor/
+**/*.log
+**/*.sqlite
+.idea/
+bin/
+tmp/
+node_modules/
+.sass-cache/
+rice-box.go
+public/assets/
+tindetective
+data/
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
 *.a
