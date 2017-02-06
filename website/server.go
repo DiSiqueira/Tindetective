@@ -126,7 +126,7 @@ func getTinderToken() *Token {
 	}
 	defer session.Close()
 
-	fbAuth := "EAAGm0PX4ZCpsBAMLT7bGEs5j0QqFEGdOnOkHVXW2kRAtZBFO3XnLr2QqILwM8Lyn4ZBIC0KlsaH6tuAi08LZBNLGm8Md52rOkY7kAVfUOyGKiJjdQ256VtWI6vnQnGE4B0WV3vZCvUuSPv0dS4Cd4KCMUb04uZBOeoEkXm3JwFOh0k8ADJLaWJ"
+	fbAuth := ""
 
 	url := "https://api.gotinder.com/auth"
 
